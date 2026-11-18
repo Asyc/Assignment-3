@@ -1,0 +1,7 @@
+.m2/
+__MACOSX/
+*.zip
+[0-9].png
+**/target/
+**/.DS_Store
+**/*.backup
